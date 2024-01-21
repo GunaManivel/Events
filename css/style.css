@@ -1,0 +1,62 @@
+body {
+  background-color: #f8f9fa;
+}
+
+header {
+  background: linear-gradient(90deg, #00d2ff 0%, #3a47d5 100%);;
+  padding: 20px 0;
+  text-align: center;
+  font-family: "Audiowide", sans-serif;
+}
+.container {
+    margin-top: 20px;
+  }
+
+.searchbar {
+  width: 70%;
+  margin: 0 auto;
+}
+img {
+  width: 100%;
+}
+.event-card {
+  background-color: #fff;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 13px;
+  box-shadow: 0 0 18px rgba(0, 0, 0, 0.1);
+  font-family: "Audiowide", sans-serif;
+}
+
+.event-image {
+  width: 100%;
+  padding-top: 20px;
+  border-radius: 2px;
+  align-content: center;
+}
+
+.event-details {
+  padding-top: 10px;
+}
+
+.btn-book {
+  width: 100% !important;
+   background: linear-gradient(90deg, #00d2ff 0%, #3a47d5 100%) !important;
+}
+.btn-book:hover {
+  box-shadow: darkorange !important;
+  border: 10px violet;
+  border-radius: 5px;
+}
+.btn-search {
+    background-color: #e6edf5;
+    overflow: hidden;
+  }
+  .btn-search :hover {
+    background-color: #e6edf5;
+  } 
+  .btn-sold:hover {
+    background-color: skyblue !important;
+  }
+  
+
